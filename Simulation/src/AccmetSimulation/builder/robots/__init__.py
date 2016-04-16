@@ -1,0 +1,1 @@
+from .wagon import Wagon
