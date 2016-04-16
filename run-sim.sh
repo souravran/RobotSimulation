@@ -3,7 +3,7 @@
 
 #CUR_DIR=$(pwd)
 CUR_SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-SIM=AccmetSimulation
+SIM=Simulation
 SIM_DIR=${CUR_SCRIPT_DIR}/${SIM}
 
 # run to change directory and exit
