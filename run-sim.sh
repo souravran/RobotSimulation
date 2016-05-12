@@ -43,6 +43,6 @@ echo -e "\n **** Running Accmet Simulation using MORSE **** "
 echo -e "================================================= \n \n"
 
 morse import -f ${SIM_DIR} >> /dev/null 2>&1
-morse run AccmetSimulation
+morse run Simulation
 
 exit 0
