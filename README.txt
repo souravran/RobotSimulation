@@ -1,6 +1,6 @@
-AccMet Simulation README
+Robot Simulation README
 ========================
-:Author: Avantys Engineering GmbH & CoKG
+:Author: Sourav Senapati
 :Date:   July 22nd, 2015
 
 
